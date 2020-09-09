@@ -71,7 +71,7 @@ div{
     background-repeat: no-repeat;
     height: 100vh;
     background-attachment: fixed;
-    background-image: url("main-image.jpg")
+    background-image: url("../test/main-image.jpg")
         
        
 }
