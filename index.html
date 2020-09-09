@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>김현정 포트폴리오 테스트</title>
+   <title>KHJ 포트폴리오</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="test.css">
@@ -10,48 +10,105 @@
 </head>
 <body>
     <header>
-    <h2>Developer HJ</h2>
-  <nav>
-        <span><a href="#Contact">Contact</a></span>
-        <span><a href="#Career">Career</a></span>
-        <span><a href="#Skill">Skill</a></span>
-        <span><a href="#About">About</a></span>
-        </nav>
-</header>
+    <h2><a class=logo href="#">Developer HJ</a></h2>
+       <nav>
+        <span><a href="#About" id="menu-about">About</a></span>
+        <span><a href="#Skill" id="menu-skill">Skill</a></span>
+        <span><a href="#Career" id="menu-career" >Career</a></span>
+        <span><a href="#Contact" id="menu-contact">Contact</a></span>
+       </nav>
+    </header>
+    
 <!--About Main-->
+
     <div class="container-main">
         <p class="typing-txt">Developer KHJ의 포트폴리오입니다.</p>
           <p class="typing"></p> 
     </div>
-    
-<!--About Area-->
-    <div class="container-com" id="About">
-        <div class="item">About</div>
-        <div class="item">Element2</div>
-        <div class="item">Element3</div>
-    </div>
-    
+
+
+    <!--About Area-->
+   
+   <div class="about" id="About">
+       <h1>About</h1>
+
+   <div class="skill-content">
+       <h2>language</h2>
+       <span class="skill-content"><div class="skill-box">
+           <div class="skill-container"style="background-image:url(html5_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(css3_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(js_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(jq_icon.png)"></div>
+       </div></span>
+       
+       <div class="skill-content">
+       <h2>Tool</h2>
+       <span class="skill-content"><div class="skill-box">
+           <div class="skill-container"style="background-image:url(git_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(css3_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(css3_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(css3_icon.png)"></div>
+       </div></span>
+   </div>
+      </div>
+        
+                
 <!--Skill Area-->
-    <div class="container-com" id="Skill">
-        <div class="item">Skill</div>
-        <div class="item">Element2</div>
-        <div class="item">Element3</div>
-    </div>
+   
+   <div class="skill" id="Skill">
+       <h1>Skill</h1>
+
+   <div class="skill-content">
+       <h2>language</h2>
+       <span class="skill-content"><div class="skill-box">
+           <div class="skill-container"style="background-image:url(html5_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(css3_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(js_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(jq_icon.png)"></div>
+       </div></span>
+       
+       <div class="skill-content">
+       <h2>Tool</h2>
+       <span class="skill-content"><div class="skill-box">
+           <div class="skill-container"style="background-image:url(git_icon.png)"></div>
+           <div class="skill-container"style="background-image:url(ps_icon.jpg)"></div>
+            <div class="skill-container"style="background-image:url(jira_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(mantis_icon.png)"></div>
+            <div class="skill-container"style="background-image:url(office_icon.png)"></div>
+       </div></span>
+   </div>
+     
+          <div class="skill-content">
+       <h2>Studying</h2>
+       <span class="skill-content"><div class="skill-box">
+           <div class="skill-container"style="background-image:url(android_icon.jpg)"></div>
+            <div class="skill-container"style="background-image:url(java_icon.png)"></div>
+
+       </div></span>
+   </div>
+      </div>
     
+
+   
 <!--Career Area-->
-    <div class="container-com" id="Career">
-        <div class="item">Career</div>
+    <section>
+    <div class="container-com container-career" id="Career">
+        <div class="item item-tit">Career</div>
         <div class="item">Element2</div>
         <div class="item">Element3</div>
     </div>
-    
+    </section>
+            
 <!--Contact Area-->
-    <div class="container-com" id="Contact">
-        <div class="item">Contact</div>
+    <section>
+    <div class="container-com container-contact" id="Contact">
+        <div class="item item-tit">Contact</div>
         <div class="item">Element2</div>
         <div class="item">Element3</div>
     </div>
+    </section>
     
         <script type="text/javascript" src="test.js"></script>
+         <script type="text/javascript" src="clickButton.js"></script>
 </body>
 </html>

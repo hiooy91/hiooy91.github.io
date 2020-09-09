@@ -5,7 +5,7 @@ var typingBool = false;
     if(typingBool==false){ // 타이핑이 진행되지 않았다면 
        typingBool=true; 
        
-       var tyInt = setInterval(typing,100); // 반복동작 
+       var tyInt = setInterval(typing,150); // 반복동작 
      } 
      
      function typing(){ 
