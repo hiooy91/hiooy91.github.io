@@ -1,0 +1,68 @@
+
+
+@media screen and (max-width: 900px) {
+    a.logo{
+        font-size: 15px;
+        margin-right: -30px;
+    }
+    
+    h1.hedding{
+        margin-left: -3rem;
+        margin-right: -2rem;
+        font-size: 20px;
+
+        
+    }
+
+    section.about.section{
+margin-left: -3rem;
+    margin-top:-1rem;
+        margin-right: 3rem;
+    
+    
+    
+}
+       
+    
+    nav{
+        width: 250px;
+ 
+    }
+    
+    
+    div.container-main{
+    height: 30rem;
+    }
+    
+    
+    a#menu-about{
+        font-size: 15px;
+           margin-right: -5px;
+  
+    }
+    
+     a#menu-skill{
+        font-size: 15px;
+            margin-right: -5px;
+         
+    }
+     a#menu-career{
+        font-size: 15px;
+        margin-right: -5px;
+          
+    }
+     a#menu-contact{
+        font-size: 15px;
+            margin-right: -5px;
+         
+        
+    }
+    
+    h2{
+        font-size: 20px;
+    }
+    
+    
+
+}
+
