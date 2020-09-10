@@ -109,6 +109,11 @@ div{
     display: block;
 }
 
+
+div.container-main{
+    overflow-x: hidden;
+}
+
 .container-main{
     overflow: hidden;
     display: flex;
@@ -121,6 +126,7 @@ div{
     background-repeat: no-repeat;
     height: 100vh;
     background-attachment: fixed;
+    overflow-x: hidden;
 /*    background-image: url("/test/image/main-image.jpg")*/
         
        
