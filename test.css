@@ -108,7 +108,8 @@ h2{
 }
 
 div.txt{
- margin-left: 0;    
+ margin-left: 0;
+    align-items: center;
 }
 
 div{
@@ -230,20 +231,42 @@ h1.hedding2{
 
 }
 
-footer{
+div.foot-area{
     background-color: #585052;
     height: 2rem;
+align-content: center;
     
 }
 
-div.text{
+
+h3.foot-text{
     background-color: #585052;
     color: #9A9A9A;
 font-family: Georgia, "Malgun Gothic", serif;
     font-style: oblique;
+    font-size: 13px;
+    padding-top: 0.5rem;
+text-align: center;
+    display: block;
+    margin: 0;
 }
 
-   
+h1.hedding2.contact{
+    color: antiquewhite;
+     margin-bottom: -3rem;
+}
+
+
+h2.contact-email{
+   color: antiquewhite; 
+/*    margin-bottom: -5rem;*/
+}
+
+h2.contact-download{
+   color: antiquewhite; 
+/*    margin-bottom: -5rem;*/
+}
+
 .skill-box{
     padding-bottom: 4rem;
 }
