@@ -258,7 +258,7 @@ align-content: center;
 h3.foot-text{
     background-color: #585052;
     color: #9A9A9A;
-font-family: Georgia, "Malgun Gothic", serif;
+font-family: Gothic, "Malgun Gothic", serif;
     font-style: oblique;
     font-size: 13px;
     padding-top: 0.5rem;
@@ -280,7 +280,7 @@ h2.contact-email{
 
 h2.contact-download{
    color: #C1B6B7; 
-    font-family: Georgia, "Malgun Gothic", serif;
+    font-family: Gothic, "Malgun Gothic", serif;
 /*    font-style: oblique;*/
     font-size: 20px;
     text-decoration: underline;
