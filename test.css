@@ -72,7 +72,7 @@ header {
     
     
      overflow-x: hidden;
-    overflow-y:auto;
+
 }
 
 
@@ -140,7 +140,7 @@ div.container-main{
     background-repeat: no-repeat;
     height: 100vh;
     background-attachment: fixed;
-   
+        overflow-x: hidden;
 /*    background-image: url("/test/image/main-image.jpg")*/
         
        
