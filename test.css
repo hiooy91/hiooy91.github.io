@@ -17,8 +17,12 @@ section{
 }
 
 
+
+
+}
 a.logo{
     font-size: 24px;
+    color: #FFE3BE;
 }
 
 .fade
@@ -85,7 +89,7 @@ p{
 
 a{
     text-decoration: none;
-    color:white;
+   color: #D0C9CA;
     font-size: 1.2vw;
     margin: 1rem;
 }
@@ -105,13 +109,14 @@ h2{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+        color: #353031;
 }
 
 
 
 .logo{
     text-decoration: none;
-    color:white;
+ 
     font-size: 1.5vw;   
 }
 
@@ -188,7 +193,7 @@ h1.hedding2{
     text-align: center;
     padding-top: 2.5rem;
     padding-bottom: 1.5rem;
-    background-color: #E3E1E1;
+    background-color: #EAE7E8;
     
     
 }
@@ -200,7 +205,7 @@ h1.hedding2{
     margin: 0 auto;
     text-align: center;
     padding-top: 2.5rem;
-    background-color: #D0C5C5;
+    background-color: #B6A9AB;
     
     
 }
@@ -222,7 +227,9 @@ h1.hedding2{
 
 
 
-
+h3{
+    color: #353031;
+}
 
 
 
@@ -261,18 +268,22 @@ text-align: center;
 }
 
 h1.hedding2.contact{
-    color: antiquewhite;
+    color: #3F3839;
      margin-bottom: -3rem;
 }
 
 
 h2.contact-email{
-   color: antiquewhite; 
+   color: #C1B6B7; 
 /*    margin-bottom: -5rem;*/
 }
 
 h2.contact-download{
-   color: antiquewhite; 
+   color: #C1B6B7; 
+    font-family: Georgia, "Malgun Gothic", serif;
+/*    font-style: oblique;*/
+    font-size: 20px;
+    text-decoration: underline;
 /*    margin-bottom: -5rem;*/
 }
 
@@ -283,6 +294,18 @@ p.typing-txt{
     display: none;
 }
   
+
+#download-a:hover{
+    color: #585052
+        
+}
+
+#download-b:hover{
+    color: #585052
+        
+}
+
+
 
 
 .typing {  
