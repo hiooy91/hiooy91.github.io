@@ -1,6 +1,6 @@
 html{
          overflow-x: hidden;
-    overflow-y:auto;
+   overflow-y: auto;
   
 }
 
@@ -50,7 +50,8 @@ body{
     
     
      overflow-x: hidden;
-    overflow-y:auto;
+       overflow-y: auto;
+  
     
 }
 
@@ -71,7 +72,7 @@ header {
     
     
     
-     overflow-x: hidden;
+
 
 }
 
@@ -141,6 +142,7 @@ div.container-main{
     height: 100vh;
     background-attachment: fixed;
         overflow-x: hidden;
+       overflow-y: auto;
 /*    background-image: url("/test/image/main-image.jpg")*/
         
        
