@@ -8,6 +8,18 @@
         
     }
     
+    body{
+         overflow-x: hidden;
+    overflow-y:auto;
+        
+    }
+    
+    header{
+         overflow-x: hidden;
+    overflow-y:auto;
+        
+    }
+    
     a.logo{
         font-size: 15px;
         margin-right: -30px;
