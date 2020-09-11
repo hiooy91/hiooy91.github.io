@@ -273,18 +273,54 @@ h1.hedding2.contact{
 }
 
 
+
 h2.contact-email{
    color: #C1B6B7; 
-/*    margin-bottom: -5rem;*/
+    margin-bottom: -5rem;
+
 }
 
+/*
 h2.contact-download{
    color: #C1B6B7; 
     font-family: Gothic, "Malgun Gothic", serif;
+*/
 /*    font-style: oblique;*/
+/*
     font-size: 20px;
     text-decoration: underline;
+*/
+/*    margin-bottom: -5rem;
+}*/
+
+/* a#contact-download{
+
+   color: #C1B6B7; 
+    font-family: Gothic, "Malgun Gothic", serif;
+*/
+/*    font-style: oblique;*/
+/*
+    font-size: 20px;
+    text-decoration: underline;
+*/
 /*    margin-bottom: -5rem;*/
+/*
+    
+        display: block;
+    font-weight: bold;
+
+
+}*/
+
+
+
+h2#download-a.contact-download{
+    color: aliceblue;
+    margin-top: 5rem;
+       color: #C1B6B7; 
+    text-decoration: underline;
+    font-size: 20px;
+     font-family: Gothic, "Malgun Gothic", serif;
 }
 
 .skill-box{
