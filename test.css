@@ -47,7 +47,7 @@ body{
     padding: 0;
 /*     padding-top: 75px;*/
     
-    overflow-x: hidden;
+   
     
 }
 
@@ -116,11 +116,11 @@ div{
 
 
 div.container-main{
-    overflow-x: hidden;
+    
 }
 
 .container-main{
-    overflow: hidden;
+  
     display: flex;
     height: 100%;
     width: 100%;
@@ -131,7 +131,7 @@ div.container-main{
     background-repeat: no-repeat;
     height: 100vh;
     background-attachment: fixed;
-    overflow-x: hidden;
+   
 /*    background-image: url("/test/image/main-image.jpg")*/
         
        
