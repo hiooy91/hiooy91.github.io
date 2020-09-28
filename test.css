@@ -193,7 +193,7 @@ h1.hedding2{
     text-align: center;
     padding-top: 2.5rem;
     padding-bottom: 1.5rem;
-    background-color: #EAE7E8;
+    background-color: #ECECEC;
     
     
 }
@@ -205,7 +205,8 @@ h1.hedding2{
     margin: 0 auto;
     text-align: center;
     padding-top: 2.5rem;
-    background-color: #B6A9AB;
+    background-color: #B7ACAD;
+    color: ##BFB4B6;
     
     
 }
@@ -220,7 +221,7 @@ h1.hedding2{
     padding-top: 2.5rem;
     padding-bottom: 5rem;
     margin-bottom: 0;
-    background-color: #7C6E70;
+    background-color: #595153;
     
     
 }
@@ -228,7 +229,7 @@ h1.hedding2{
 
 
 h3{
-    color: #353031;
+    color: #313131;
 }
 
 
@@ -248,15 +249,19 @@ h3{
 }
 
 div.foot-area{
-    background-color: #585052;
+    background-color: #000;
     height: 2rem;
 align-content: center;
     
 }
 
 
+h3.h3color{
+    color: #313131;
+}
+
 h3.foot-text{
-    background-color: #585052;
+    background-color: #000;
     color: #9A9A9A;
 font-family: Gothic, "Malgun Gothic", serif;
     font-style: oblique;
@@ -268,14 +273,14 @@ text-align: center;
 }
 
 h1.hedding2.contact{
-    color: #3F3839;
+    color: #CBCAC9;
      margin-bottom: -3rem;
 }
 
 
 
 h2.contact-email{
-   color: #C1B6B7; 
+   color: #CBCAC9; 
     margin-bottom: -5rem;
 
 }
