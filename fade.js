@@ -1,3 +1,5 @@
+//스크롤 시 페이드 효과 스크립트
+
 $(document).ready(function() {
     $(window).scroll( function(){
         $('.fadeinleft').each( function(i){

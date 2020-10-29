@@ -1,0 +1,123 @@
+/*모바일 미디어 쿼리*/
+
+
+@media screen and (max-width: 900px) {
+    
+    html{
+        overflow-x: hidden;
+        overflow-y:auto;
+
+    }
+
+    body{
+        overflow-x: hidden;
+        overflow-y:auto;
+
+        }
+
+
+    a.logo{
+        font-size: 15px;
+        margin-right: -30px;
+    }
+
+    h1.about-hedding{
+        margin-left: -0.5rem;
+        font-size: 25px;        
+    }
+
+
+div.about{
+    display: block;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    padding-top: 2.5rem;
+    padding-bottom: 3rem;
+    background-color: #fff; 
+}
+    
+    
+    
+    h1.about-hedding{
+   padding-left: 2rem;
+   padding-top: 2rem;
+   margin-bottom: -2rem;
+
+}
+
+
+
+h1.about-hedding.about-hedding2{
+    margin-top: -1rem;
+}
+
+div.about.about2{
+    padding-bottom: 6rem;
+}
+
+
+
+
+    nav{
+        width: 250px;
+
+    }
+
+
+    div.container-main{
+        height: 30rem;
+    }
+
+
+    a#menu-about{
+        font-size: 15px;
+        margin-right: -5px;
+
+    }
+
+    a#menu-skill{
+        font-size: 15px;
+        margin-right: -5px;
+
+    }
+
+    a#menu-career{
+        font-size: 15px;
+        margin-right: -5px;
+
+    }
+
+
+    a#menu-contact{
+        font-size: 15px;
+        margin-right: -5px;
+
+    }
+
+    
+    h2{
+        font-size: 20px;
+    }
+
+    
+    h3.foot-text{
+        background-color: #585052;
+        color: #9A9A9A;
+        font-family: Georgia, "Malgun Gothic", serif;
+        font-style: oblique;
+        font-size: 7px;
+        padding-top: 0.5rem;
+        text-align: center;
+        display: block;
+        margin: 0;
+    }
+
+    
+
+}
+

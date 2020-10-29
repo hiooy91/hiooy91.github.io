@@ -1,0 +1,332 @@
+html{
+    overflow-x: hidden;
+    overflow-y: auto;
+  
+}
+
+
+.fadeinleft {
+    opacity:0;
+    margin-left:-300px;    
+    max-width:100%;
+}
+
+
+
+
+
+a.logo{
+    font-size: 24px;
+    color: #E0E0E0;
+}
+
+
+.fade{
+    opacity:0;
+}
+
+
+.skillbox2{
+    padding-top: 30px;
+}
+
+
+
+#menu-about:hover{
+    color:#7C6E70;
+}
+
+#menu-skill:hover{
+    color:#7C6E70;
+}
+
+#menu-career:hover{
+    color:#7C6E70;
+}
+
+#menu-contact:hover{
+    color:#7C6E70;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;    
+}
+
+
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1vh;
+    padding: 1.5rem;
+    background: black;
+    opacity: 0.7;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+p{
+    display: block;
+}
+
+
+a{
+    text-decoration: none;
+    color: #D0C9CA;
+    font-size: 1.2vw;
+    margin: 1rem;
+}
+
+
+h1{
+    display: block;
+
+}
+
+
+
+h2{
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #353031;
+}
+
+
+
+.logo{
+    text-decoration: none;
+    font-size: 1.5vw;   
+}
+
+
+
+div.txt{
+    margin-left: 0;
+    align-items: center;
+}
+
+
+div{
+    display: block;
+}
+
+
+
+.container-main{  
+    display: flex;
+    height: 100%;
+    width: 100%;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    overflow-y: auto;    
+}
+
+
+div.about{
+    display: block;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 13rem;
+    margin-top: 2rem;
+    margin-right: 0;
+    padding-top: 2.5rem;
+    padding-bottom: 3rem;
+    background-color: #fff; 
+}
+
+
+
+
+h1.about-hedding{
+   padding-left: 12rem;
+   padding-top: 3rem;
+   margin-bottom: -2rem;
+
+}
+
+
+h1.hedding2{
+    margin-bottom: 3rem;
+}
+
+
+h1.about-hedding.about-hedding2{
+    margin-top: -1rem;
+}
+
+div.about.about2{
+    padding-bottom: 6rem;
+}
+
+
+
+
+
+.skill{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+    background-color: #ECECEC; 
+}
+
+
+
+.career{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2.5rem;
+    background-color: #D4D4D4;
+    color: ##BFB4B6;
+}
+
+
+.contact{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 5rem;
+    margin-bottom: 0;
+    background-color: #535353;   
+}
+
+
+
+h3{
+    color: #313131;
+}
+
+
+
+.skill-container{
+    text-align: center;
+    display: inline-block;
+    width: 114px;
+    height: 116px;
+    border-radius: 30px 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 2rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+
+}
+
+
+div.foot-area{
+    background-color: #000;
+    height: 2rem;
+    align-content: center;
+}
+
+
+
+h3.h3color{
+    color: #313131;
+}
+
+
+h3.foot-text{
+    background-color: #000;
+    color: #9A9A9A;
+    font-family: Gothic, "Malgun Gothic", serif;
+    font-style: oblique;
+    font-size: 13px;
+    padding-top: 0.5rem;
+    text-align: center;
+    display: block;
+    margin: 0;
+}
+
+
+h1.hedding2.contact{
+    color: #CBCAC9;
+    margin-bottom: -3rem;
+}
+
+
+
+h2.contact-email{
+    color: #CBCAC9; 
+    margin-bottom: -5rem;
+
+}
+
+
+
+
+h2#download-a.contact-download{
+    color: aliceblue;
+    margin-top: 5rem;
+    color: #BBBBBB; 
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: Gothic, "Malgun Gothic", serif;
+}
+
+
+
+.skill-box{
+    padding-bottom: 4rem;
+}
+
+p.typing-txt{
+    display: none;
+}
+  
+
+#download-a:hover{
+    color: #585052
+        
+}
+
+#download-b:hover{
+    color: #585052
+        
+}
+
+
+
+
+.typing {  
+    display: inline-block; 
+    animation-name: cursor; 
+    animation-duration: 0.3s; 
+    animation-iteration-count: infinite; 
+    font-weight: bold;
+    font-size: 4vw;
+    white-space: pre;
+    line-height: 1;
+    letter-spacing: .1rem; 
+}
+
+    @keyframes cursor{ 
+        0%{border-right: 1px solid #fff} 
+        50%{border-right: 1px solid #000} 
+        100%{border-right: 1px solid #fff} 
+}
