@@ -147,20 +147,21 @@ div.about{
     margin: 0 auto;
     text-align: left;
     margin-left: 13rem;
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-right: 0;
-    padding-top: 2.5rem;
-    padding-bottom: 3rem;
+    margin-bottom: 3rem;
     background-color: #fff; 
+    font-size: 16px;
+
 }
 
 
 
 
 h1.about-hedding{
-   padding-left: 12rem;
-   padding-top: 3rem;
-   margin-bottom: -2rem;
+    margin-left: 12rem;
+   margin-top: 5rem;
+    font-size: 32px;
 
 }
 
@@ -171,11 +172,11 @@ h1.hedding2{
 
 
 h1.about-hedding.about-hedding2{
-    margin-top: -1rem;
+    margin-top: 4rem;
 }
 
 div.about.about2{
-    padding-bottom: 6rem;
+    margin-bottom: 6.5rem;
 }
 
 
