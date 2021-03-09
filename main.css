@@ -340,6 +340,13 @@ margin-top: 1rem;
 }
 
 
+a.link{
+
+   margin-top: 5rem;
+    font-size: 32px;
+color: #000;
+}
+
 div.project-comment{
     margin-top: 1rem;
     margin-bottom: 4rem;
@@ -356,6 +363,7 @@ div.project-comment{
     line-height: 1;
     letter-spacing: .1rem; 
 }
+
 
     @keyframes cursor{ 
         0%{border-right: 1px solid #fff} 
