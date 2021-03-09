@@ -202,7 +202,7 @@ div.about.about2{
     text-align: center;
     padding-top: 2.5rem;
     background-color: #D4D4D4;
-    color: ##BFB4B6;
+
 }
 
 
@@ -243,14 +243,24 @@ div.foot-area{
     background-color: #000;
     height: 2rem;
     align-content: center;
+
 }
 
+
+
+div.project-contents{
+    color: #CBCAC9;
+}
 
 
 h3.h3color{
     color: #313131;
 }
 
+h3.h3color2{
+    color: #CBCAC9;
+    margin-top: -1rem;
+}
 
 h3.foot-text{
     background-color: #000;
@@ -262,7 +272,17 @@ h3.foot-text{
     text-align: center;
     display: block;
     margin: 0;
+} 
+
+
+div.image-area{
+    margin-bottom: 1rem;
 }
+
+h2.color3{
+    color:  #CBCAC9;
+}
+
 
 
 h1.hedding2.contact{
@@ -301,6 +321,14 @@ p.typing-txt{
 }
   
 
+span.project-link{
+    font-weight:700;
+    text-decoration: underline ;
+margin-top: 1rem;
+}
+
+
+
 #download-a:hover{
     color: #585052
         
@@ -312,7 +340,10 @@ p.typing-txt{
 }
 
 
-
+div.project-comment{
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
 
 .typing {  
     display: inline-block; 
